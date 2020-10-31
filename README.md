@@ -25,7 +25,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/c/PavanAdhav)
 
 ---
 
@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@adhavpavan)
 
 ---
 
