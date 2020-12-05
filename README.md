@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [54. Discovery Service: Roles and Responsibilities - Fabric v2.x](https://www.youtube.com/watch?v=8n9SmQ1sGQc)
+- [53. Get Tx By TxId, Block By Block Number using Fabric-network SDK(QSCC)-  Fabric v2.x](https://www.youtube.com/watch?v=SunyHjI1VIg)
 - [52. Fabric Advanced Operations (Add new Org/Orderer in running network) - New  Course Introduction](https://www.youtube.com/watch?v=JKWvBwTiHb8)
 - [51. Data Persistance :  Hyperledger Fabric Network 2.X](https://www.youtube.com/watch?v=punEiTpDTUU)
 - [50 Private Data Collection (Explicit & Implicit) Implementation in Hyperledger fabric - Part 3](https://www.youtube.com/watch?v=1e8qqSwF6LE)
-- [49  Private Data  Collection (Explicit & Implicit) Implementation in Hyperledger fabric - Part 2.](https://www.youtube.com/watch?v=N-o4qL29ym8)
-- [48  Private Data  Collection (Explicit & Implicit) Implementation in Hyperledger fabric - Part 1](https://www.youtube.com/watch?v=QSE9ucGOfDE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
