@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [56. Contract API Part 2 - Create Chaincode using Contract API: Hyperledger Fabric](https://www.youtube.com/watch?v=Wf4VegTt0tg)
+- [55. Contract API Part 1 - Setting up new Repo and creating Network: Hyperledger fabric 2.x](https://www.youtube.com/watch?v=OtQwzzsPzSg)
 - [54. Discovery Service: Roles and Responsibilities - Fabric v2.x](https://www.youtube.com/watch?v=8n9SmQ1sGQc)
 - [53. Get Tx By TxId, Block By Block Number using Fabric-network SDK(QSCC)-  Fabric v2.x](https://www.youtube.com/watch?v=SunyHjI1VIg)
 - [52. Fabric Advanced Operations (Add new Org/Orderer in running network) - New  Course Introduction](https://www.youtube.com/watch?v=JKWvBwTiHb8)
-- [51. Data Persistance :  Hyperledger Fabric Network 2.X](https://www.youtube.com/watch?v=punEiTpDTUU)
-- [50 Private Data Collection (Explicit & Implicit) Implementation in Hyperledger fabric - Part 3](https://www.youtube.com/watch?v=1e8qqSwF6LE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
