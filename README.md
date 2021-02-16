@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [59. Contract API Part 5 - Add Multiple Smart Contract in same chaincode](https://www.youtube.com/watch?v=TZY2Gooh4f8)
 - [58. Contract API Part 4 - Cross chaincode Communication: Hyperledger Fabric](https://www.youtube.com/watch?v=JL4FsZcY468)
 - [57. Contract API Part 3 - Install Multiple Smart Contract on Same Channel](https://www.youtube.com/watch?v=d1AobTkSt3M)
 - [56. Contract API Part 2 - Create Chaincode using Contract API: Hyperledger Fabric](https://www.youtube.com/watch?v=Wf4VegTt0tg)
 - [55. Contract API Part 1 - Setting up new Repo and creating Network: Hyperledger fabric 2.x](https://www.youtube.com/watch?v=OtQwzzsPzSg)
-- [54. Discovery Service: Roles and Responsibilities - Fabric v2.x](https://www.youtube.com/watch?v=8n9SmQ1sGQc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
