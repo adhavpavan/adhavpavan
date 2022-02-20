@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [62. Certificate&lpar;TLS, Enrollment &rpar; Rotation / Certificate Renew / Recover Expired Cert Fabric Network](https://www.youtube.com/watch?v=fr2CB4_XrHc)
 - [61. Contract API Part  7 - Add Block Listener : Hyperledger Fabric](https://www.youtube.com/watch?v=RXRavEYnF5w)
 - [60. Contract API Part  6  - Add Contract Listener: Hyperledger Fabric](https://www.youtube.com/watch?v=6s1xAMdQdZ4)
 - [59. Contract API Part 5 - Add Multiple Smart Contract in same chaincode](https://www.youtube.com/watch?v=TZY2Gooh4f8)
 - [58. Contract API Part 4 - Cross chaincode Communication: Hyperledger Fabric](https://www.youtube.com/watch?v=JL4FsZcY468)
-- [57. Contract API Part 3 - Install Multiple Smart Contract on Same Channel](https://www.youtube.com/watch?v=d1AobTkSt3M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
