@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Certification Rotation in Hyperledger Fabric](https://adhavpavan.medium.com/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec?source=rss-7fe6d9cfbbee------2)
+- [Certification Rotation in Hyperledger Fabric](https://medium.com/coinmonks/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec?source=rss-7fe6d9cfbbee------2)
 - [Dockerising&lpar;Containerising&rpar; Caliper and Integrate with your own Hyperledger Fabric Network…](https://medium.com/coinmonks/dockerising-containerising-caliperand-integrate-with-your-own-hyperledger-fabric-network-a328b318f6de?source=rss-7fe6d9cfbbee------2)
 - [Containerizing Blockchain Explorer and Integrate with Existing Hyperledger Fabric Network.](https://medium.com/coinmonks/containerizing-blockchain-explorer-and-integrate-with-existing-hyperledger-fabric-network-50a0737b7a81?source=rss-7fe6d9cfbbee------2)
 - [Blockchain Explorer Integration with Hyperledger Fabric](https://medium.com/coinmonks/blockchain-explorer-integration-with-hyperledger-fabric-fc14570753f7?source=rss-7fe6d9cfbbee------2)
