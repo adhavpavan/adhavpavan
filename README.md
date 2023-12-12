@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Section 5   7  Commit Chaincode and Invoke Transaction](https://www.youtube.com/watch?v=E-2MbaaHxJI)
-- [Section 5   6  VM3 Org3 Install and Approve Chaincode](https://www.youtube.com/watch?v=ZoR8cWkytSs)
-- [Section 8   6  UI   Netlify Deployment](https://www.youtube.com/watch?v=mFhPZJV_C0w)
-- [Section 5   5  VM2 Org2 Install and Approve Chaincode](https://www.youtube.com/watch?v=Qcq-8spTXWU)
-- [Section 8   5  Certificate Creation using certbot - Hyperledger Fabric v2.5](https://www.youtube.com/watch?v=XH41Qv_JSms)
+- [Section 5   9  Add Orderer Address to Application Channel](https://www.youtube.com/watch?v=shOCeBw9BDo)
+- [Section 5   8  Add Consenter to Application Channel](https://www.youtube.com/watch?v=FKXHz73siZU)
+- [Section 5   7  Add Orderer Address To System Channel](https://www.youtube.com/watch?v=LRUkCZS0cTA)
+- [Section 5   6  Start New Orderer Container](https://www.youtube.com/watch?v=fB4BwLHvIBw)
+- [Section 5   5  Add Consenter To System Channel](https://www.youtube.com/watch?v=AR-HMeOk4hs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
