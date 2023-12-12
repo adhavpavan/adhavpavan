@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [64. Certificate revocation in Hyperledger Fabric:  Part 2](https://www.youtube.com/watch?v=_KSYic-Cdjc)
-- [63. Certificate revocation in Hyperledger Fabric : Part 1](https://www.youtube.com/watch?v=xjZ0Fp0X9og)
-- [62. Certificate&lpar;TLS, Enrollment &rpar; Rotation / Certificate Renew / Recover Expired Cert Fabric Network](https://www.youtube.com/watch?v=fr2CB4_XrHc)
-- [61. Contract API Part  7 - Add Block Listener : Hyperledger Fabric](https://www.youtube.com/watch?v=RXRavEYnF5w)
-- [60. Contract API Part  6  - Add Contract Listener: Hyperledger Fabric](https://www.youtube.com/watch?v=6s1xAMdQdZ4)
+- [Section 5   7  Commit Chaincode and Invoke Transaction](https://www.youtube.com/watch?v=E-2MbaaHxJI)
+- [Section 5   6  VM3 Org3 Install and Approve Chaincode](https://www.youtube.com/watch?v=ZoR8cWkytSs)
+- [Section 8   6  UI   Netlify Deployment](https://www.youtube.com/watch?v=mFhPZJV_C0w)
+- [Section 5   5  VM2 Org2 Install and Approve Chaincode](https://www.youtube.com/watch?v=Qcq-8spTXWU)
+- [Section 8   5  Certificate Creation using certbot - Hyperledger Fabric v2.5](https://www.youtube.com/watch?v=XH41Qv_JSms)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
