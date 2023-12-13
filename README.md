@@ -62,7 +62,7 @@
 
 
 
-[course]: https://www.udemy.com/course/hyperledger-fabric-2x-multi-host-deployment/?referralCode=31EE4C6658DE618634A8
+[course]: [https://www.udemy.com/course/hyperledger-fabric-2x-multi-host-deployment/?referralCode=31EE4C6658DE618634A8](https://pavantechacademy.graphy.com/courses/Agreement-Management-using-Hyperledger-Fabric-v25Full-Stack-Application-657577ade4b063cb4155c7ac-657577ade4b063cb4155c7ac)
 [youtube]: https://youtube.com/c/PavanAdhav
 [instagram]: https://www.instagram.com/pavanadhavofficial/
 [linkedin]: https://www.linkedin.com/in/pavan-adhav/
