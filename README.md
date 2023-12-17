@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Section 1: 1. Introduction to Course - Hyperledger Fabric v2.5 - Agreement Management](https://www.youtube.com/watch?v=P1W96TGHVJo)
 - [Section 6   20  Transaction Flow](https://www.youtube.com/watch?v=imSHD68zSu0)
 - [Section 5   9  Add Orderer Address to Application Channel](https://www.youtube.com/watch?v=shOCeBw9BDo)
 - [Section 5   8  Add Consenter to Application Channel](https://www.youtube.com/watch?v=FKXHz73siZU)
 - [Section 5   7  Add Orderer Address To System Channel](https://www.youtube.com/watch?v=LRUkCZS0cTA)
-- [Section 5   6  Start New Orderer Container](https://www.youtube.com/watch?v=fB4BwLHvIBw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
