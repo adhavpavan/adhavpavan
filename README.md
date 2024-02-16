@@ -39,10 +39,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Flow In Hyperledger Fabric v2.5](https://adhavpavan.medium.com/transaction-flow-in-hyperledger-fabric-v2-5-15729d55b686?source=rss-7fe6d9cfbbee------2)
-- [Certification Rotation in Hyperledger Fabric](https://adhavpavan.medium.com/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec?source=rss-7fe6d9cfbbee------2)
-- [Dockerising&lpar;Containerising&rpar; Caliper and Integrate with your own Hyperledger Fabric Network…](https://adhavpavan.medium.com/dockerising-containerising-caliperand-integrate-with-your-own-hyperledger-fabric-network-a328b318f6de?source=rss-7fe6d9cfbbee------2)
-- [Containerizing Blockchain Explorer and Integrate with Existing Hyperledger Fabric Network.](https://adhavpavan.medium.com/containerizing-blockchain-explorer-and-integrate-with-existing-hyperledger-fabric-network-50a0737b7a81?source=rss-7fe6d9cfbbee------2)
+- [Transaction Flow In Hyperledger Fabric v2.5](https://medium.com/coinmonks/transaction-flow-in-hyperledger-fabric-v2-5-15729d55b686?source=rss-7fe6d9cfbbee------2)
+- [Certification Rotation in Hyperledger Fabric](https://medium.com/coinmonks/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec?source=rss-7fe6d9cfbbee------2)
+- [Dockerising&lpar;Containerising&rpar; Caliper and Integrate with your own Hyperledger Fabric Network…](https://medium.com/coinmonks/dockerising-containerising-caliperand-integrate-with-your-own-hyperledger-fabric-network-a328b318f6de?source=rss-7fe6d9cfbbee------2)
+- [Containerizing Blockchain Explorer and Integrate with Existing Hyperledger Fabric Network.](https://medium.com/coinmonks/containerizing-blockchain-explorer-and-integrate-with-existing-hyperledger-fabric-network-50a0737b7a81?source=rss-7fe6d9cfbbee------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@adhavpavan)
