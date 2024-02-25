@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Section 1: 1. Introduction to Course - Hyperledger Fabric v2.5 - Agreement Management](https://www.youtube.com/watch?v=P1W96TGHVJo)
-- [Section 6   20  Transaction Flow](https://www.youtube.com/watch?v=imSHD68zSu0)
-- [Section 5   9  Add Orderer Address to Application Channel](https://www.youtube.com/watch?v=shOCeBw9BDo)
-- [Section 5   8  Add Consenter to Application Channel](https://www.youtube.com/watch?v=FKXHz73siZU)
-- [Section 5   7  Add Orderer Address To System Channel](https://www.youtube.com/watch?v=LRUkCZS0cTA)
+- [Difference Between foreach and map function of array in JS](https://www.youtube.com/watch?v=PfZKUfuADJk)
+- [Git File History: VS Code Extension](https://www.youtube.com/watch?v=8hHMHMettC8)
+- [Nullish coalescing Operator&lpar;??&rpar; in JavaScript](https://www.youtube.com/watch?v=h2YSz7F881w)
+- [optional chaining operator&lpar;?&rpar; in Javascript](https://www.youtube.com/watch?v=eXnhlzgUW64)
+- [Awesome Javascript  #coding #javascripttutorial  #javascript](https://www.youtube.com/watch?v=zs9aeLOe6nQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
