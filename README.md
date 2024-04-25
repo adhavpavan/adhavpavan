@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hyperledger Fabric v2.5 - PCCOE Session: 2024](https://www.youtube.com/watch?v=TNVIu7EYCWs)
 - [Javascript runtime at runtime Simulation](https://www.youtube.com/watch?v=0emnbXBCsHs)
 - [Difference Between foreach and map function of array in JS](https://www.youtube.com/watch?v=PfZKUfuADJk)
 - [Git File History: VS Code Extension](https://www.youtube.com/watch?v=8hHMHMettC8)
 - [Nullish coalescing Operator&lpar;??&rpar; in JavaScript](https://www.youtube.com/watch?v=h2YSz7F881w)
-- [optional chaining operator&lpar;?&rpar; in Javascript](https://www.youtube.com/watch?v=eXnhlzgUW64)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
