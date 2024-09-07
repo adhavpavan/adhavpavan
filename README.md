@@ -5,7 +5,7 @@
 - 🔭 I just launched my second udemy course: [Hyperledger Fabric Developer!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more and learn more as much possible
+- 🥅 2024 Goals: Contribute more and learn more as much possible
 - ⚡ Fun fact: I love chicken 
 
 
