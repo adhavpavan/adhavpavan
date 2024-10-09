@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7. Fabric Network: Chaincode Deploy and Invoke Transaction](https://www.youtube.com/watch?v=-v8Ql3761Po)
+- [6. Fabric Network:  Run All Services](https://www.youtube.com/watch?v=Lz3u0Ldbdj0)
+- [5. Fabric Network:  Create CA and Certificates](https://www.youtube.com/watch?v=jbiRgClgVJ8)
+- [4. Fabric Network: Prerequisite Installation  Part2](https://www.youtube.com/watch?v=aqWCcBozdPc)
 - [2. Fabric Network: Network Creation](https://www.youtube.com/watch?v=2txC3RG0rU8)
-- [Course: 2500 TPS -  Hyperledger Fabric v2.5 Performance Optimization Using Caliper and Tape](https://www.youtube.com/watch?v=B-_ZCh8kmDA)
-- [Payment Gateway Integration   Razorpay](https://www.youtube.com/watch?v=zPDh4OSuBTU)
-- [Payment Gateway Integration   Stripe - React- Node](https://www.youtube.com/watch?v=-Pz6rEVuw9Q)
-- [Section 2   5  Certificate Creation and Validation  Part 2](https://www.youtube.com/watch?v=wvQzydnK2GE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
