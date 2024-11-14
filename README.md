@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Custom Hyperledger Fabric Network Code Generator](https://www.youtube.com/watch?v=4tXGpabPRsE)
 - [Section 6   12  Contract Creation   Part 1](https://www.youtube.com/watch?v=0ZSFOAyb5Og)
 - [23. Benchmarking: Powerful Machine](https://www.youtube.com/watch?v=XJxFbuUUIfw)
 - [25  2300 tps   Go Chaincode](https://www.youtube.com/watch?v=vBYWY40bHwU)
 - [24.  Benchmarking: Archive Around 1000 TPS](https://www.youtube.com/watch?v=LCzpP6NJTXY)
-- [16. Tape: Introduction to Tape and Setup](https://www.youtube.com/watch?v=vW00N-E1xJg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
