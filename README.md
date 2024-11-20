@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Hyperledger Fabric&lpar;v2.5&rpar; Network Setup: Generate Custom Boilerplate Code Instantly](https://adhavpavan.medium.com/simplifying-hyperledger-fabric-v2-5-network-setup-generate-custom-boilerplate-code-instantly-61f2771da2cc?source=rss-7fe6d9cfbbee------2)
+- [Simplifying Hyperledger Fabric&lpar;v2.5&rpar; Network Setup: Generate Custom Boilerplate Code Instantly](https://medium.com/coinmonks/simplifying-hyperledger-fabric-v2-5-network-setup-generate-custom-boilerplate-code-instantly-61f2771da2cc?source=rss-7fe6d9cfbbee------2)
 - [2500 TPS : Hyperledger Fabric v2.5 Performance Optimization Using Caliper and Tape](https://medium.com/coinmonks/2500-tps-hyperledger-fabric-v2-5-performance-optimization-using-caliper-and-tape-ca7e59627b6c?source=rss-7fe6d9cfbbee------2)
 - [Transaction Flow In Hyperledger Fabric v2.5](https://medium.com/coinmonks/transaction-flow-in-hyperledger-fabric-v2-5-15729d55b686?source=rss-7fe6d9cfbbee------2)
 - [Certification Rotation in Hyperledger Fabric](https://medium.com/coinmonks/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec?source=rss-7fe6d9cfbbee------2)
