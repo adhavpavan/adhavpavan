@@ -27,9 +27,9 @@
 <!-- YOUTUBE:START -->
 - [Custom Hyperledger Fabric Network Code Generator](https://www.youtube.com/watch?v=4tXGpabPRsE)
 - [Section 6   12  Contract Creation   Part 1](https://www.youtube.com/watch?v=0ZSFOAyb5Og)
-- [23. Benchmarking: Powerful Machine](https://www.youtube.com/watch?v=XJxFbuUUIfw)
-- [25  2300 tps   Go Chaincode](https://www.youtube.com/watch?v=vBYWY40bHwU)
-- [24.  Benchmarking: Archive Around 1000 TPS](https://www.youtube.com/watch?v=LCzpP6NJTXY)
+- [Course: 2500 TPS -  Hyperledger Fabric v2.5 Performance Optimization Using Caliper and Tape](https://www.youtube.com/watch?v=B-_ZCh8kmDA)
+- [Payment Gateway Integration   Razorpay](https://www.youtube.com/watch?v=zPDh4OSuBTU)
+- [Payment Gateway Integration   Stripe - React- Node](https://www.youtube.com/watch?v=-Pz6rEVuw9Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
