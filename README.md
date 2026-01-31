@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10. Caliper:  Network Configuration](https://www.youtube.com/watch?v=WXjQ3rJi0RM)
 - [9. Caliper: Benchmark Configuration](https://www.youtube.com/watch?v=ACKZ62FTcaY)
 - [8. Caliper Introduction and Setup](https://www.youtube.com/watch?v=YzukBG5tk-I)
 - [3. Fabric Network: Prerequisite Installation](https://www.youtube.com/watch?v=R0TIU3seN40)
 - [Custom Hyperledger Fabric Network Code Generator](https://www.youtube.com/watch?v=4tXGpabPRsE)
-- [Section 6   12  Contract Creation   Part 1](https://www.youtube.com/watch?v=0ZSFOAyb5Og)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
