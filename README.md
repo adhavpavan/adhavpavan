@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CLAUDE.md Makes Claude Code Remember Your Project](https://www.youtube.com/shorts/pjCUWwsXsNA)
 - [Claude Code Hooks Block Dangerous Commands Automatically](https://www.youtube.com/shorts/Wu5fGX2gsMc)
 - [Build a Claude Code AI Team with Custom Subagents](https://www.youtube.com/shorts/5ldVMIcbytU)
 - [Claude Code /rewind Is Ctrl+Z for Your Whole Session](https://www.youtube.com/shorts/taJkknlRacU)
 - [Claude Code&#39;s /btw Command Changes Everything](https://www.youtube.com/shorts/0d-lgMDhktc)
-- [10. Caliper:  Network Configuration](https://www.youtube.com/watch?v=WXjQ3rJi0RM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
