@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add Claude Code to Your Discord Server #claudecode #shorts](https://www.youtube.com/shorts/rGPeRLkqJh4)
+- [I Texted My Telegram And It Fixed My Bug #claudecode #shorts](https://www.youtube.com/shorts/UfEL-wrUUPk)
 - [CLAUDE.md Makes Claude Code Remember Your Project](https://www.youtube.com/shorts/pjCUWwsXsNA)
 - [Claude Code Hooks Block Dangerous Commands Automatically](https://www.youtube.com/shorts/Wu5fGX2gsMc)
 - [Build a Claude Code AI Team with Custom Subagents](https://www.youtube.com/shorts/5ldVMIcbytU)
-- [Claude Code /rewind Is Ctrl+Z for Your Whole Session](https://www.youtube.com/shorts/taJkknlRacU)
-- [Claude Code&#39;s /btw Command Changes Everything](https://www.youtube.com/shorts/0d-lgMDhktc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
