@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord Can Now Trigger Claude Code #claudecode #shorts](https://www.youtube.com/shorts/4do9n1mSv8Q)
+- [Setup Claude Code on Telegram in 3 Steps #claudecode #shorts](https://www.youtube.com/shorts/6A2v6b7IKiM)
 - [Add Claude Code to Your Discord Server #claudecode #shorts](https://www.youtube.com/shorts/rGPeRLkqJh4)
 - [I Texted My Telegram And It Fixed My Bug #claudecode #shorts](https://www.youtube.com/shorts/UfEL-wrUUPk)
 - [CLAUDE.md Makes Claude Code Remember Your Project](https://www.youtube.com/shorts/pjCUWwsXsNA)
-- [Claude Code Hooks Block Dangerous Commands Automatically](https://www.youtube.com/shorts/Wu5fGX2gsMc)
-- [Build a Claude Code AI Team with Custom Subagents](https://www.youtube.com/shorts/5ldVMIcbytU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
