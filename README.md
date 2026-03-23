@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Install Claude Code in Under 2 Minutes — Full Setup Guide](https://www.youtube.com/shorts/prWJDbifzvM)
+- [CLAUDE.md: Make Claude Remember Your Project Forever](https://www.youtube.com/shorts/iK6YWIz_vgU)
+- [Claude Code Has TWO Modes — Most Devs Only Know One](https://www.youtube.com/shorts/pcQh19kkvM0)
 - [Discord Can Now Trigger Claude Code #claudecode #shorts](https://www.youtube.com/shorts/4do9n1mSv8Q)
 - [Setup Claude Code on Telegram in 3 Steps #claudecode #shorts](https://www.youtube.com/shorts/6A2v6b7IKiM)
-- [Add Claude Code to Your Discord Server #claudecode #shorts](https://www.youtube.com/shorts/rGPeRLkqJh4)
-- [I Texted My Telegram And It Fixed My Bug #claudecode #shorts](https://www.youtube.com/shorts/UfEL-wrUUPk)
-- [CLAUDE.md Makes Claude Code Remember Your Project](https://www.youtube.com/shorts/pjCUWwsXsNA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
