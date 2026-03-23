@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Claude Code&#39;s Agent Loop&lpar;--max turns&rpar; Actually Works](https://www.youtube.com/shorts/yEOacsVK0N8)
 - [What Is Claude Code? The AI Agent That Lives in Your Terminal](https://www.youtube.com/shorts/gTzmUYl1unA)
 - [Install Claude Code in Under 2 Minutes — Full Setup Guide](https://www.youtube.com/shorts/prWJDbifzvM)
 - [CLAUDE.md: Make Claude Remember Your Project Forever](https://www.youtube.com/shorts/iK6YWIz_vgU)
 - [Claude Code Has TWO Modes — Most Devs Only Know One](https://www.youtube.com/shorts/pcQh19kkvM0)
-- [Discord Can Now Trigger Claude Code #claudecode #shorts](https://www.youtube.com/shorts/4do9n1mSv8Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
