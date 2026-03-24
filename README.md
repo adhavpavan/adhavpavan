@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Claude Code Reads 10,000-File Monorepos Without Crashing &lpar;Agentic Search&rpar;](https://www.youtube.com/shorts/vLJGzFgTC6o)
+- [Claude Code Can See Your Whole Codebase At Once](https://www.youtube.com/shorts/84bO-h4dzwc)
+- [Claude Code has a read-only mode. Here&#39;s how.](https://www.youtube.com/shorts/vc-5fm5ik5s)
 - [How Claude Code&#39;s Agent Loop&lpar;--max turns&rpar; Actually Works](https://www.youtube.com/shorts/yEOacsVK0N8)
 - [What Is Claude Code? The AI Agent That Lives in Your Terminal](https://www.youtube.com/shorts/gTzmUYl1unA)
-- [Install Claude Code in Under 2 Minutes — Full Setup Guide](https://www.youtube.com/shorts/prWJDbifzvM)
-- [CLAUDE.md: Make Claude Remember Your Project Forever](https://www.youtube.com/shorts/iK6YWIz_vgU)
-- [Claude Code Has TWO Modes — Most Devs Only Know One](https://www.youtube.com/shorts/pcQh19kkvM0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
