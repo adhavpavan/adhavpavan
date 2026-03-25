@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code Writes Your Docs From Actual Code](https://www.youtube.com/shorts/VMMIh5f_eSM)
 - [Claude Code Can Research Tech, Compare Options &amp; Write a Brief — All in One Session](https://www.youtube.com/shorts/25snp4bVykg)
 - [How to Write a CLAUDE.md That Makes Claude 10x Better &lpar;Best Practices&rpar;](https://www.youtube.com/shorts/86pGOHf_iu0)
 - [/clear vs /compact in Claude Code — Pick the Right One](https://www.youtube.com/shorts/_e0UqOR-qMo)
 - [How Claude Code Reads 10,000-File Monorepos Without Crashing &lpar;Agentic Search&rpar;](https://www.youtube.com/shorts/vLJGzFgTC6o)
-- [Claude Code Can See Your Whole Codebase At Once](https://www.youtube.com/shorts/84bO-h4dzwc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
