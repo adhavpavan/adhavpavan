@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code Hooks: Intercept Every Tool Call Before &amp; After It Happens](https://www.youtube.com/shorts/0ZvoxTmIzC0)
 - [Claude Code Hooks: Intercept EVERY Action Claude Takes](https://www.youtube.com/shorts/IjwIHErrgKY)
 - [Hook Matchers: Target Exactly Which Tools Trigger Your Claude Code Hooks](https://www.youtube.com/shorts/DzXK6gnVlY8)
 - [Claude Code Writes Your Docs From Actual Code](https://www.youtube.com/shorts/VMMIh5f_eSM)
 - [Claude Code Can Research Tech, Compare Options &amp; Write a Brief — All in One Session](https://www.youtube.com/shorts/25snp4bVykg)
-- [How to Write a CLAUDE.md That Makes Claude 10x Better &lpar;Best Practices&rpar;](https://www.youtube.com/shorts/86pGOHf_iu0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
