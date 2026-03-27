@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code vs Copilot vs Cursor — which actually does more?](https://www.youtube.com/shorts/qfMR2TccAJk)
 - [Bad Prompt vs Great Prompt — Claude Code Edition](https://www.youtube.com/shorts/CZ0yrUGjuFU)
 - [10 Claude Code Habits That Separate Power Users From Everyone Else](https://www.youtube.com/shorts/qtL1eSQL75M)
 - [Three CLAUDE.md Files — Only One Wins &lpar;Override Order Explained&rpar;](https://www.youtube.com/shorts/bsTpOdJoQ3M)
 - [Claude Code Hooks: Intercept Every Tool Call Before &amp; After It Happens](https://www.youtube.com/shorts/0ZvoxTmIzC0)
-- [Claude Code Hooks: Intercept EVERY Action Claude Takes](https://www.youtube.com/shorts/IjwIHErrgKY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
