@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bad Prompt vs Great Prompt — Claude Code Edition](https://www.youtube.com/shorts/CZ0yrUGjuFU)
+- [10 Claude Code Habits That Separate Power Users From Everyone Else](https://www.youtube.com/shorts/qtL1eSQL75M)
 - [Three CLAUDE.md Files — Only One Wins &lpar;Override Order Explained&rpar;](https://www.youtube.com/shorts/bsTpOdJoQ3M)
 - [Claude Code Hooks: Intercept Every Tool Call Before &amp; After It Happens](https://www.youtube.com/shorts/0ZvoxTmIzC0)
 - [Claude Code Hooks: Intercept EVERY Action Claude Takes](https://www.youtube.com/shorts/IjwIHErrgKY)
-- [Hook Matchers: Target Exactly Which Tools Trigger Your Claude Code Hooks](https://www.youtube.com/shorts/DzXK6gnVlY8)
-- [Claude Code Writes Your Docs From Actual Code](https://www.youtube.com/shorts/VMMIh5f_eSM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
