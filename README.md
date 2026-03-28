@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Claude Code Decides What It&#39;s Allowed To Do](https://www.youtube.com/shorts/A3VoVeP8dc4)
 - [Deploy Claude Code Across Your Entire Engineering Team](https://www.youtube.com/shorts/fAGQz3wGVLM)
 - [Most developers use 3 Claude Code commands. There are 50+.](https://www.youtube.com/shorts/edZgeTGvfxA)
 - [What Claude Code Can&#39;t Do &lpar;Honest Review&rpar; #shorts](https://www.youtube.com/shorts/kTtefCAdElg)
 - [Before Claude writes code, it maps your entire codebase — here&#39;s how](https://www.youtube.com/shorts/yEXN50PWE28)
-- [Claude Code vs Copilot vs Cursor — which actually does more?](https://www.youtube.com/shorts/qfMR2TccAJk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
