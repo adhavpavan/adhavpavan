@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1. $260 Billion Is Lost Every Year Because of Checkout Forms &lpar;Here&#39;s the Fix&rpar; #shorts](https://www.youtube.com/shorts/y2CHwVdfQYk)
+- [CLAUDE.md is Wasting Your Tokens &lpar;Here&#39;s the Fix&rpar; #claudecode #ai](https://www.youtube.com/shorts/VYzSkDiLZn4)
 - [Claude Code Plugins: Bundle Skills, Hooks, MCP &amp; Agents in 1 Install](https://www.youtube.com/shorts/xAVzqMaiuHU)
 - [How Claude Code Decides What It&#39;s Allowed To Do](https://www.youtube.com/shorts/A3VoVeP8dc4)
 - [Deploy Claude Code Across Your Entire Engineering Team](https://www.youtube.com/shorts/fAGQz3wGVLM)
-- [Most developers use 3 Claude Code commands. There are 50+.](https://www.youtube.com/shorts/edZgeTGvfxA)
-- [What Claude Code Can&#39;t Do &lpar;Honest Review&rpar; #shorts](https://www.youtube.com/shorts/kTtefCAdElg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
