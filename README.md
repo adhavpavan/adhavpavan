@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Your Claude Skill Doesn&#39;t Trigger &lpar;Fix Your Description&rpar; #claudecode #anthropic #programming](https://www.youtube.com/shorts/SLseq_84YBw)
 - [Build a Claude Code Skill in 60 Seconds &lpar;1 File, That&#39;s It&rpar;](https://www.youtube.com/shorts/l0Rh-Ui36gA)
 - [Claude Skills Are NOT System Prompts &lpar;Most Devs Get This Wrong&rpar;](https://www.youtube.com/shorts/YSTw8ab-QPE)
 - [1. $260 Billion Is Lost Every Year Because of Checkout Forms &lpar;Here&#39;s the Fix&rpar; #shorts](https://www.youtube.com/shorts/y2CHwVdfQYk)
 - [CLAUDE.md is Wasting Your Tokens &lpar;Here&#39;s the Fix&rpar; #claudecode #ai](https://www.youtube.com/shorts/VYzSkDiLZn4)
-- [Claude Code Plugins: Bundle Skills, Hooks, MCP &amp; Agents in 1 Install](https://www.youtube.com/shorts/xAVzqMaiuHU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
