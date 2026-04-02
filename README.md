@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why Your Claude Skill Doesn&#39;t Trigger &lpar;Fix Your Description&rpar;](https://www.youtube.com/shorts/yXhStz8olpI)
 - [The Complete Claude Code Architecture &lpar;Skills → MCP → Hooks → Plugins&rpar;](https://www.youtube.com/shorts/wi3e8oYB7gw)
 - [5 Claude Code Skills That Developers Actually Install &lpar;One Command!&rpar;](https://www.youtube.com/shorts/pshGhRT84gw)
 - [This Skill is 70KB But Costs 3,000 Tokens. Here&#39;s How. #claudecode #coding #anthropic](https://www.youtube.com/shorts/4_AV1o4EhlI)
 - [Why Your Claude Skill Doesn&#39;t Trigger &lpar;Fix Your Description&rpar; #claudecode #anthropic #programming](https://www.youtube.com/shorts/SLseq_84YBw)
-- [Build a Claude Code Skill in 60 Seconds &lpar;1 File, That&#39;s It&rpar;](https://www.youtube.com/shorts/l0Rh-Ui36gA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
