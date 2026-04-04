@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [88% of AI Agents Never Reach Production. Here&#39;s Why. #claudecode #coding #programming](https://www.youtube.com/shorts/v3RrCEyzfko)
+- [Claude Code Just Got a 1 Million Token Context Window &lpar;No Extra Cost&rpar; #claudecode  #anthropic #code](https://www.youtube.com/shorts/bemdl1DF1ag)
 - [Claude&#39;s Cowork Mode Automates Your Desktop &lpar;No Coding Required&rpar; #claudecode #coding #programming](https://www.youtube.com/shorts/o6JgSgZxkJw)
 - [Claude Code now spawns an AI dev team that codes in parallel #shorts](https://www.youtube.com/shorts/vT4fHqRcnws)
 - [One Prompt → 15 Slides: The Claude Code PPTX Skill](https://www.youtube.com/shorts/-zWO-7f_W5E)
-- [Claude Code Has a Skill That Builds Skills &lpar;With AI Evaluators&rpar;](https://www.youtube.com/shorts/8lOSTq4BShk)
-- [Write 1 SKILL.md — It Works in 26 AI Agents Unchanged](https://www.youtube.com/shorts/SRoCOb7gi4I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
