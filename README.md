@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Prompt Engineering Is Dead. Context Engineering Is What Matters #claudecode #coding #programming](https://www.youtube.com/shorts/bA8-tUG-fzc)
 - [Claude Code Now Runs Tasks on a Schedule — Without You #claudecode #coding #programming](https://www.youtube.com/shorts/iQkxugZ9f2c)
 - [This Claude Code Command Gives You 10× the Context Window #claudecode #coding #programming](https://www.youtube.com/shorts/ZDPAQYx172g)
 - [88% of AI Agents Never Reach Production. Here&#39;s Why. #claudecode #coding #programming](https://www.youtube.com/shorts/v3RrCEyzfko)
 - [Claude Code Just Got a 1 Million Token Context Window &lpar;No Extra Cost&rpar; #claudecode  #anthropic #code](https://www.youtube.com/shorts/bemdl1DF1ag)
-- [Claude&#39;s Cowork Mode Automates Your Desktop &lpar;No Coding Required&rpar; #claudecode #coding #programming](https://www.youtube.com/shorts/o6JgSgZxkJw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
