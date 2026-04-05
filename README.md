@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 Multi-Agent Patterns Every Developer Needs to Know #claudecode #coding #programming](https://www.youtube.com/shorts/Jl14g-Gtw3M)
 - [Prompt Engineering Is Dead. Context Engineering Is What Matters #claudecode #coding #programming](https://www.youtube.com/shorts/bA8-tUG-fzc)
 - [Claude Code Now Runs Tasks on a Schedule — Without You #claudecode #coding #programming](https://www.youtube.com/shorts/iQkxugZ9f2c)
 - [This Claude Code Command Gives You 10× the Context Window #claudecode #coding #programming](https://www.youtube.com/shorts/ZDPAQYx172g)
 - [88% of AI Agents Never Reach Production. Here&#39;s Why. #claudecode #coding #programming](https://www.youtube.com/shorts/v3RrCEyzfko)
-- [Claude Code Just Got a 1 Million Token Context Window &lpar;No Extra Cost&rpar; #claudecode  #anthropic #code](https://www.youtube.com/shorts/bemdl1DF1ag)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
