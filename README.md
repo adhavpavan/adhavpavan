@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your AI Agent Forgets Everything Between Sessions &lpar;Here&#39;s the Fix&rpar; #claudecode #coding #programming](https://www.youtube.com/shorts/m3_ytVJ3Dxk)
 - [Cut AI Agent Costs 60-80% With 2 Simple Tricks #claudecode #coding #programming](https://www.youtube.com/shorts/KE0He32KnGA)
 - [4 Multi-Agent Patterns Every Developer Needs to Know #claudecode #coding #programming](https://www.youtube.com/shorts/Jl14g-Gtw3M)
 - [Prompt Engineering Is Dead. Context Engineering Is What Matters #claudecode #coding #programming](https://www.youtube.com/shorts/bA8-tUG-fzc)
 - [Claude Code Now Runs Tasks on a Schedule — Without You #claudecode #coding #programming](https://www.youtube.com/shorts/iQkxugZ9f2c)
-- [This Claude Code Command Gives You 10× the Context Window #claudecode #coding #programming](https://www.youtube.com/shorts/ZDPAQYx172g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
