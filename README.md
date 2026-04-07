@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Skill Finds ALL Other Skills — 691,000 Installs #1million](https://www.youtube.com/shorts/2F7o4pzxmjU)
 - [Wrap Any Python Script as a Claude Skill in 5 Minutes](https://www.youtube.com/shorts/OIzviU3PruA)
 - [Skills vs MCP Servers in Claude Code — You Need Both](https://www.youtube.com/shorts/YGS7dtgDZjc)
 - [Your AI Agent Forgets Everything Between Sessions &lpar;Here&#39;s the Fix&rpar; #claudecode #coding #programming](https://www.youtube.com/shorts/m3_ytVJ3Dxk)
 - [Cut AI Agent Costs 60-80% With 2 Simple Tricks #claudecode #coding #programming](https://www.youtube.com/shorts/KE0He32KnGA)
-- [4 Multi-Agent Patterns Every Developer Needs to Know #claudecode #coding #programming](https://www.youtube.com/shorts/Jl14g-Gtw3M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
