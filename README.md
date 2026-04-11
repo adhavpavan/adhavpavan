@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code Does Large-Scale Refactors Across Your Entire Codebase](https://www.youtube.com/shorts/Gtr6T8gVfac)
 - [- **Title:** Claude Code + MCP Servers: Query Databases, Browse Web &amp; Read GitHub Issues #claudecode](https://www.youtube.com/shorts/8dTqsqeyP60)
 - [This Skill Finds ALL Other Skills — 691,000 Installs #1million](https://www.youtube.com/shorts/2F7o4pzxmjU)
 - [Wrap Any Python Script as a Claude Skill in 5 Minutes](https://www.youtube.com/shorts/OIzviU3PruA)
 - [Skills vs MCP Servers in Claude Code — You Need Both](https://www.youtube.com/shorts/YGS7dtgDZjc)
-- [Your AI Agent Forgets Everything Between Sessions &lpar;Here&#39;s the Fix&rpar; #claudecode #coding #programming](https://www.youtube.com/shorts/m3_ytVJ3Dxk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
