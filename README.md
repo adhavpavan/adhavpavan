@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code Has 3 Memory Layers — Here&#39;s Which One to Use](https://www.youtube.com/shorts/H6u8ywu02CQ)
 - [Plan Mode: See Exactly What Claude Will Do Before It Does It](https://www.youtube.com/shorts/IUr9RNwOaBI)
 - [--output-format json: Pipe Claude Code into any tool](https://www.youtube.com/shorts/yjYn4Ay_HOo)
 - [Claude Code Does Large-Scale Refactors Across Your Entire Codebase](https://www.youtube.com/shorts/Gtr6T8gVfac)
 - [- **Title:** Claude Code + MCP Servers: Query Databases, Browse Web &amp; Read GitHub Issues #claudecode](https://www.youtube.com/shorts/8dTqsqeyP60)
-- [This Skill Finds ALL Other Skills — 691,000 Installs #1million](https://www.youtube.com/shorts/2F7o4pzxmjU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
