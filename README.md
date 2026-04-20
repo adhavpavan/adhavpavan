@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code /ultraplan: Cloud Plans Your Code While Terminal Stays Free](https://www.youtube.com/shorts/5fM2oDifPxc)
+- [Claude catches bugs before you open the PR #claudecode #aitools](https://www.youtube.com/shorts/6sXhwWujbCk)
 - [Claude Design closes the gap between prototype and shipped code](https://www.youtube.com/shorts/EmOJ63Gpklo)
 - [Claude Design just shipped — interactive prototypes from a text prompt with design system auto-build](https://www.youtube.com/shorts/wv-ExWlzme8)
 - [Claude Code&#39;s Permissions System: You Control What It Can Touch](https://www.youtube.com/shorts/EcoEhjqeh-I)
-- [Claude Code Has 3 Memory Layers — Here&#39;s Which One to Use](https://www.youtube.com/shorts/H6u8ywu02CQ)
-- [Plan Mode: See Exactly What Claude Will Do Before It Does It](https://www.youtube.com/shorts/IUr9RNwOaBI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
