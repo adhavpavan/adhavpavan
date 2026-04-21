@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your laptop&#39;s closed. Claude just shipped 12 PRs — Routines explained](https://www.youtube.com/shorts/68OIFAESh7Y)
+- [I sent my Mac a task from the train — Claude Dispatch is wild](https://www.youtube.com/shorts/qmqCrBHVLj8)
 - [Your Mac Cleans Itself Now — Claude Desktop Scheduled Tasks](https://www.youtube.com/shorts/0W6aBWiWh30)
 - [Claude Code /ultraplan: Cloud Plans Your Code While Terminal Stays Free](https://www.youtube.com/shorts/5fM2oDifPxc)
 - [Claude catches bugs before you open the PR #claudecode #aitools](https://www.youtube.com/shorts/6sXhwWujbCk)
-- [Claude Design closes the gap between prototype and shipped code](https://www.youtube.com/shorts/EmOJ63Gpklo)
-- [Claude Design just shipped — interactive prototypes from a text prompt with design system auto-build](https://www.youtube.com/shorts/wv-ExWlzme8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
