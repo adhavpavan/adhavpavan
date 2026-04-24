@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code&#39;s Hidden /recap Feature &lpar;You Probably Missed This&rpar;](https://www.youtube.com/shorts/hXldurb_PGw)
 - [Stop refreshing — /loop polls deploys while you code &lpar;Claude Code v2.1.71+&rpar;](https://www.youtube.com/shorts/giWTZ1jkFRA)
 - [Your CLAUDE.md is making Claude dumber &lpar;fix this&rpar;](https://www.youtube.com/shorts/RewFRKxm_JM)
 - [Dispatch vs Routines vs /loop — pick wrong, your automation dies](https://www.youtube.com/shorts/3wRrsdvesiU)
 - [Your laptop&#39;s closed. Claude just shipped 12 PRs — Routines explained](https://www.youtube.com/shorts/68OIFAESh7Y)
-- [I sent my Mac a task from the train — Claude Dispatch is wild](https://www.youtube.com/shorts/qmqCrBHVLj8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
