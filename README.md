@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude wasted 20 minutes solving the WRONG problem &lpar;Anthropic&#39;s fix is 4 phases&rpar;](https://www.youtube.com/shorts/Y47_EotZ_LI)
 - [Claude Code just upgraded your effort level &lpar;xhigh is the new default&rpar;](https://www.youtube.com/shorts/Q38F1AwaEdA)
 - [Claude Code&#39;s Hidden /recap Feature &lpar;You Probably Missed This&rpar;](https://www.youtube.com/shorts/hXldurb_PGw)
 - [Stop refreshing — /loop polls deploys while you code &lpar;Claude Code v2.1.71+&rpar;](https://www.youtube.com/shorts/giWTZ1jkFRA)
 - [Your CLAUDE.md is making Claude dumber &lpar;fix this&rpar;](https://www.youtube.com/shorts/RewFRKxm_JM)
-- [Dispatch vs Routines vs /loop — pick wrong, your automation dies](https://www.youtube.com/shorts/3wRrsdvesiU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
