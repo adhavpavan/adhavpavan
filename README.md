@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop approving Claude&#39;s permission prompts &lpar;93% you click yes anyway&rpar;](https://www.youtube.com/shorts/J0nOeuYusuE)
 - [Claude Code cut permission prompts by 84% — without the dangerous flag](https://www.youtube.com/shorts/xpvZPEnFirI)
 - [Sonnet + Opus Advisor Beats Sonnet Solo — And Costs 11.9% Less](https://www.youtube.com/shorts/J226aP-xvh0)
 - [Claude wasted 20 minutes solving the WRONG problem &lpar;Anthropic&#39;s fix is 4 phases&rpar;](https://www.youtube.com/shorts/Y47_EotZ_LI)
 - [Claude Code just upgraded your effort level &lpar;xhigh is the new default&rpar;](https://www.youtube.com/shorts/Q38F1AwaEdA)
-- [Claude Code&#39;s Hidden /recap Feature &lpar;You Probably Missed This&rpar;](https://www.youtube.com/shorts/hXldurb_PGw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
