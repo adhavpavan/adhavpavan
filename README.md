@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Never Lose a Claude Code Session Again &lpar;--resume &amp; --continue&rpar;](https://www.youtube.com/shorts/hOC4wM9DFhc)
 - [You&#39;re Claude&#39;s Only Feedback Loop &lpar;Here&#39;s How To Fix That&rpar;](https://www.youtube.com/shorts/fIXeqH3KCek)
 - [Run 3 Claude Code Sessions In Parallel Without Breaking Your Git History](https://www.youtube.com/shorts/HHNpwxgJmGE)
 - [Stop approving Claude&#39;s permission prompts &lpar;93% you click yes anyway&rpar;](https://www.youtube.com/shorts/J0nOeuYusuE)
 - [Claude Code cut permission prompts by 84% — without the dangerous flag](https://www.youtube.com/shorts/xpvZPEnFirI)
-- [Sonnet + Opus Advisor Beats Sonnet Solo — And Costs 11.9% Less](https://www.youtube.com/shorts/J226aP-xvh0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
