@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Codex Has 4 Surfaces. You&#39;re Probably Using 1.](https://www.youtube.com/shorts/UesZY6BgRMw)
 - [Claude Code Settings Hierarchy: Why Your Config Isn&#39;t Working &lpar;4 Levels&rpar;](https://www.youtube.com/shorts/0tWSBJ9dDlo)
 - [Never Lose a Claude Code Session Again &lpar;--resume &amp; --continue&rpar;](https://www.youtube.com/shorts/hOC4wM9DFhc)
 - [You&#39;re Claude&#39;s Only Feedback Loop &lpar;Here&#39;s How To Fix That&rpar;](https://www.youtube.com/shorts/fIXeqH3KCek)
 - [Run 3 Claude Code Sessions In Parallel Without Breaking Your Git History](https://www.youtube.com/shorts/HHNpwxgJmGE)
-- [Stop approving Claude&#39;s permission prompts &lpar;93% you click yes anyway&rpar;](https://www.youtube.com/shorts/J0nOeuYusuE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
