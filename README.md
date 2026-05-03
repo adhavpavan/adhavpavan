@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skills vs Hooks vs Commands vs Plugins — Claude Code](https://www.youtube.com/shorts/1G3uw6lgt8o)
 - [How prompt caching actually works in Claude Code](https://www.youtube.com/shorts/kcK8nQXSTVE)
 - [Routines, Ultraplan, Auto Mode, Fast Mode — explained](https://www.youtube.com/shorts/HLsR9fnwD2M)
 - [1 prompt. 5 Claude agents. 1 shared task list.](https://www.youtube.com/shorts/VqYxw_slX8o)
 - [Codex Has 4 Surfaces. You&#39;re Probably Using 1.](https://www.youtube.com/shorts/UesZY6BgRMw)
-- [Claude Code Settings Hierarchy: Why Your Config Isn&#39;t Working &lpar;4 Levels&rpar;](https://www.youtube.com/shorts/0tWSBJ9dDlo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
