@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Most multi-agent setups should be subagents, not Agent Teams. The bill difference is 3-4x.](https://www.youtube.com/shorts/To9DZAVZ6E8)
 - [Claude Code, but for non-developers. Meet Cowork.](https://www.youtube.com/shorts/a7z4zT_Z1Wg)
 - [Explore. Plan. Code. Commit. Skip a step, ship a bug.](https://www.youtube.com/shorts/jRbLLfUD25s)
 - [Most Claude Code wins happen before the first prompt](https://www.youtube.com/shorts/64dNmT8VCzU)
 - [Skills vs Hooks vs Commands vs Plugins — Claude Code](https://www.youtube.com/shorts/1G3uw6lgt8o)
-- [How prompt caching actually works in Claude Code](https://www.youtube.com/shorts/kcK8nQXSTVE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
