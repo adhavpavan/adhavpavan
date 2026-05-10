@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anthropic ships four Claude products. Most people only know one!](https://www.youtube.com/shorts/Xwh7hFaATEI)
 - [Stop putting timestamps in your system prompt. You&#39;re invalidating Anthropic&#39;s cache &amp; paying for it](https://www.youtube.com/shorts/KB4BlH3TMAE)
 - [Most multi-agent setups should be subagents, not Agent Teams. The bill difference is 3-4x.](https://www.youtube.com/shorts/To9DZAVZ6E8)
 - [Claude Code, but for non-developers. Meet Cowork.](https://www.youtube.com/shorts/a7z4zT_Z1Wg)
 - [Explore. Plan. Code. Commit. Skip a step, ship a bug.](https://www.youtube.com/shorts/jRbLLfUD25s)
-- [Most Claude Code wins happen before the first prompt](https://www.youtube.com/shorts/64dNmT8VCzU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
