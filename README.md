@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop installing every MCP server. Two or three, max. Each MCP server you adds tokens to every prompt](https://www.youtube.com/shorts/LfliCn8GoFg)
 - [Stop nagging Claude to lint. Configure a hook once and forget it.](https://www.youtube.com/shorts/1UVe6vtJoIw)
 - [Stop installing skill plugins. Write your own — it takes 60 seconds.](https://www.youtube.com/shorts/gqTHg8c0Nro)
 - [Anthropic ships four Claude products. Most people only know one!](https://www.youtube.com/shorts/Xwh7hFaATEI)
 - [Stop putting timestamps in your system prompt. You&#39;re invalidating Anthropic&#39;s cache &amp; paying for it](https://www.youtube.com/shorts/KB4BlH3TMAE)
-- [Most multi-agent setups should be subagents, not Agent Teams. The bill difference is 3-4x.](https://www.youtube.com/shorts/To9DZAVZ6E8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
