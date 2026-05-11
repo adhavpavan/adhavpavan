@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anthropic&#39;s bet for non-developers isn&#39;t Chat. It&#39;s Cowork](https://www.youtube.com/shorts/PnSyUhgT7Uo)
 - [Anthropic ships four Claude products. Most people only know one!](https://www.youtube.com/shorts/KGqetrIboGc)
 - [Stop installing every MCP server. Two or three, max. Each MCP server you adds tokens to every prompt](https://www.youtube.com/shorts/LfliCn8GoFg)
 - [Stop nagging Claude to lint. Configure a hook once and forget it.](https://www.youtube.com/shorts/1UVe6vtJoIw)
 - [Stop installing skill plugins. Write your own — it takes 60 seconds.](https://www.youtube.com/shorts/gqTHg8c0Nro)
-- [Anthropic ships four Claude products. Most people only know one!](https://www.youtube.com/shorts/Xwh7hFaATEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
