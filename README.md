@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop typing claude --help. Memorize these 12 and never look it up again.](https://www.youtube.com/shorts/DLFy6zBIk2c)
 - [Stop installing skill plugins. The 5 you need ship with Claude Code already.](https://www.youtube.com/shorts/gB6I-uzwwvo)
 - [Claude Code has 3 context commands. Most users use 1.](https://www.youtube.com/shorts/ptZ95fAEKFY)
 - [Anthropic gave you 5 permission modes. Most users only know 2](https://www.youtube.com/shorts/d-EA0oCYIjg)
 - [Stop typing flags. Pin your model, permissions, and hooks in settings.json once.](https://www.youtube.com/shorts/9BCgbumXB5A)
-- [Stop pasting context. Write CLAUDE.md once. Claude reads it forever.](https://www.youtube.com/shorts/STcfBu9OERU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
