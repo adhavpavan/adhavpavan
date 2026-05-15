@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude Code is better with the GUI. Most CLI users don&#39;t realize it.](https://www.youtube.com/shorts/9pycaL1t2d4)
 - [Anthropic&#39;s bet for non-developers isn&#39;t Chat. It&#39;s Cowork](https://www.youtube.com/shorts/oFRVdugbHuU)
 - [Stop defaulting to Opus. Most of your work belongs on Sonnet 4.6.](https://www.youtube.com/shorts/KKBbjJ_1qHw)
 - [Stop emailing teammates 5 separate config files. Plugins ship them as one install.](https://www.youtube.com/shorts/gl8B4CeDeI8)
 - [Stop pasting code into Claude Code. The @ directive does it cheaper.](https://www.youtube.com/shorts/xeCgWGApcIE)
-- [Stop typing claude --help. Memorize these 12 and never look it up again.](https://www.youtube.com/shorts/DLFy6zBIk2c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
