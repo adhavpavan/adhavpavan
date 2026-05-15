@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop defaulting to Opus. Most of your work belongs on Sonnet 4.6.](https://www.youtube.com/shorts/KKBbjJ_1qHw)
 - [Stop emailing teammates 5 separate config files. Plugins ship them as one install.](https://www.youtube.com/shorts/gl8B4CeDeI8)
 - [Stop pasting code into Claude Code. The @ directive does it cheaper.](https://www.youtube.com/shorts/xeCgWGApcIE)
 - [Stop typing claude --help. Memorize these 12 and never look it up again.](https://www.youtube.com/shorts/DLFy6zBIk2c)
 - [Stop installing skill plugins. The 5 you need ship with Claude Code already.](https://www.youtube.com/shorts/gB6I-uzwwvo)
-- [Claude Code has 3 context commands. Most users use 1.](https://www.youtube.com/shorts/ptZ95fAEKFY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
