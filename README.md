@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop alt-tabbing between Claude sessions. The new dashboard runs them all in one screen.](https://www.youtube.com/shorts/9Xgzq6bds5M)
 - [Your AI agent&#39;s memory has duplicates, contradictions, and stale entries.  just shipped the cleanup.](https://www.youtube.com/shorts/48wqPEh_ZIY)
 - [Stop asking Claude for Markdown. The lead behind Claude Code dropped it entirely.](https://www.youtube.com/shorts/H9-PlKAzdDo)
 - [Claude Code is better with the GUI. Most CLI users don&#39;t realize it.](https://www.youtube.com/shorts/9pycaL1t2d4)
 - [Anthropic&#39;s bet for non-developers isn&#39;t Chat. It&#39;s Cowork](https://www.youtube.com/shorts/oFRVdugbHuU)
-- [Stop defaulting to Opus. Most of your work belongs on Sonnet 4.6.](https://www.youtube.com/shorts/KKBbjJ_1qHw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
