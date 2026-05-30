@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Everything Anthropic Shipped in Opus 4.8 &lpar;90 sec&rpar;](https://www.youtube.com/shorts/4Iu2d69q2TQ)
 - [Claude Code Subagents were the ceiling. Dynamic Workflows just removed it](https://www.youtube.com/shorts/9FNPcizg33I)
 - [Stop babysitting Claude — one command keeps it working](https://www.youtube.com/shorts/KfLIferZHQw)
 - [Stop running Claude Code interactively in CI. -p is what scripting is for.](https://www.youtube.com/shorts/zghRCT9nUSg)
 - [Stop building one big agent. Spiral runs Haiku as lead, Opus as the specialists](https://www.youtube.com/shorts/dVpqgsrewv0)
-- [Stop alt-tabbing between Claude sessions. The new dashboard runs them all in one screen.](https://www.youtube.com/shorts/9Xgzq6bds5M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
