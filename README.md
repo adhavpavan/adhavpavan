@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Subagents, Skills, or Workflows — most devs reach for the wrong one.](https://www.youtube.com/shorts/T8-_LfFYVcg)
 - [Stop Restating Your System Prompt &lpar;Opus 4.8 Trick&rpar;](https://www.youtube.com/shorts/06qmnwe_byQ)
 - [Everything Anthropic Shipped in Opus 4.8 &lpar;90 sec&rpar;](https://www.youtube.com/shorts/4Iu2d69q2TQ)
 - [Claude Code Subagents were the ceiling. Dynamic Workflows just removed it](https://www.youtube.com/shorts/9FNPcizg33I)
 - [Stop babysitting Claude — one command keeps it working](https://www.youtube.com/shorts/KfLIferZHQw)
-- [Stop running Claude Code interactively in CI. -p is what scripting is for.](https://www.youtube.com/shorts/zghRCT9nUSg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
