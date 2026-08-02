@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Anthropic built a skill — for building skills. 🤯](https://www.youtube.com/shorts/dbJCCbJndYk)
 - [The Opus 4.8 Setting That&#39;s 2.5× Faster and Cheaper](https://www.youtube.com/shorts/GXOQnQof0bc)
 - [Opus 4.8 vs GPT-5.5: The Benchmark That Actually Matters](https://www.youtube.com/shorts/wRIQ-ce0mY8)
 - [Subagents, Skills, or Workflows — most devs reach for the wrong one.](https://www.youtube.com/shorts/T8-_LfFYVcg)
 - [Stop Restating Your System Prompt &lpar;Opus 4.8 Trick&rpar;](https://www.youtube.com/shorts/06qmnwe_byQ)
-- [Everything Anthropic Shipped in Opus 4.8 &lpar;90 sec&rpar;](https://www.youtube.com/shorts/4Iu2d69q2TQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
