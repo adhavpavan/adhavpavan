@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [If you built an MCP server, the handshake you rely on is gone.](https://www.youtube.com/shorts/1wMa-9ywg9w)
 - [Anthropic built a skill — for building skills. 🤯](https://www.youtube.com/shorts/dbJCCbJndYk)
 - [The Opus 4.8 Setting That&#39;s 2.5× Faster and Cheaper](https://www.youtube.com/shorts/GXOQnQof0bc)
 - [Opus 4.8 vs GPT-5.5: The Benchmark That Actually Matters](https://www.youtube.com/shorts/wRIQ-ce0mY8)
 - [Subagents, Skills, or Workflows — most devs reach for the wrong one.](https://www.youtube.com/shorts/T8-_LfFYVcg)
-- [Stop Restating Your System Prompt &lpar;Opus 4.8 Trick&rpar;](https://www.youtube.com/shorts/06qmnwe_byQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
