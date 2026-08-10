@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Skill, subagent, team, MCP or hook — 4 questions decide](https://www.youtube.com/shorts/0pgRtevXLko)
 - [Skills never unload — what they cost per session](https://www.youtube.com/shorts/aP7KWhSC1Nk)
 - [If you built an MCP server, the handshake you rely on is gone.](https://www.youtube.com/shorts/1wMa-9ywg9w)
 - [Anthropic built a skill — for building skills. 🤯](https://www.youtube.com/shorts/dbJCCbJndYk)
 - [The Opus 4.8 Setting That&#39;s 2.5× Faster and Cheaper](https://www.youtube.com/shorts/GXOQnQof0bc)
-- [Opus 4.8 vs GPT-5.5: The Benchmark That Actually Matters](https://www.youtube.com/shorts/wRIQ-ce0mY8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
