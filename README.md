@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Are you using only 1 of the Claude App 3 tabs? #claude](https://www.youtube.com/shorts/zYZUQcMoNRU)
 - [Skill, subagent, team, MCP or hook — 4 questions decide](https://www.youtube.com/shorts/0pgRtevXLko)
 - [Skills never unload — what they cost per session](https://www.youtube.com/shorts/aP7KWhSC1Nk)
 - [If you built an MCP server, the handshake you rely on is gone.](https://www.youtube.com/shorts/1wMa-9ywg9w)
 - [Anthropic built a skill — for building skills. 🤯](https://www.youtube.com/shorts/dbJCCbJndYk)
-- [The Opus 4.8 Setting That&#39;s 2.5× Faster and Cheaper](https://www.youtube.com/shorts/GXOQnQof0bc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/PavanAdhav)
